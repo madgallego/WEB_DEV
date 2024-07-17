@@ -1,0 +1,8 @@
+HTML 5 and CSS CRASH COURSE
+
+HTML  Hypertext Markup Language
+- structure to a webpage
+- the foundation or skeletal support of the webpage
+
+CSS Cascading Style Sheet
+- adds style to the webpage
