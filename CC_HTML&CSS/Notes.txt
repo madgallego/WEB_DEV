@@ -22,14 +22,27 @@ BASIC TAGS:
     <body></body> - the main content taht can be found in the website
 
     <!----> - comment tags
-    
+
 BODY TAGS
     <h1></h1>... -  header tags
+
     <p></p> - paragraph tags or text tags
     <pre> </pre> - preformatted text
+
     <br> - break line tags or new line
     <hr> - horizontal line
 
+REFERENCING TAG
+    <a href="link"> </a> - references a link
+    
+    attributes that can be added:
+    target="_blank" - opens a link in a new tab
+    title="" - creates a preview message in the link
+
+    href function
+    href="mailto:example@example.com" - proceeds to default email app
+
+    
 
 HOMEPAGE
 - landing page of the website
