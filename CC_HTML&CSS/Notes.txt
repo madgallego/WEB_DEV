@@ -10,16 +10,25 @@ CSS Cascading Style Sheet
 
 ------------ HTML ------------
 
-declaration for html type of document
+HTML DECLARATION
     <!DOCTYPE html>
 
-basic tags:
+BASIC TAGS:
     <html></html> - Composes all the el;ement within the html file
     
     <head></head> - website head/tab properties
     <title></title> - Name of the website in the tab
 
     <body></body> - the main content taht can be found in the website
+
+    <!----> - comment tags
+    
+BODY TAGS
+    <h1></h1>... -  header tags
+    <p></p> - paragraph tags or text tags
+    <pre> </pre> - preformatted text
+    <br> - break line tags or new line
+    <hr> - horizontal line
 
 
 HOMEPAGE
