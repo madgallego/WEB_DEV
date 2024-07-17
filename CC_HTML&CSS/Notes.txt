@@ -6,3 +6,9 @@ HTML  Hypertext Markup Language
 
 CSS Cascading Style Sheet
 - adds style to the webpage
+
+HOMEPAGE
+- landing page of the website
+- 
+
+    filename: index.html
