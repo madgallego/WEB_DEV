@@ -1,2 +1,27 @@
 HELLO IM LEARNING JAVA
 
+BASIC OUTPUT
+    console.log("");
+    "" - string literal
+    '' - charachter literal
+    `` - template literal 
+
+formatting with variables:
+        console.log(`hello ${variable}`)
+
+    window.alert(``); - outputs a window alert
+
+DOCUMENTATION
+    // - > comments for notes
+    /**/ -> multi line comment
+
+ELEMENT READING
+        document.getElementByID("<id of a html tag>").textContent = "<text>";
+
+---------------------------------------------------------
+
+VARIABLES
+- container that stores a value 
+
+Declaration:
+    let <variable name> = #;
