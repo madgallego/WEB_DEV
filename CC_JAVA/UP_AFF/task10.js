@@ -36,7 +36,7 @@ for(var j=0; j<size; j++){
 }
 
     console.log(`Elements that are divisible by both 2 and 5 are:`);
-    console.log(arr2);
+    console.log(arr1);
 
     console.log(`Elements that are divisible by 2 only are:`);
     console.log(arr2);
