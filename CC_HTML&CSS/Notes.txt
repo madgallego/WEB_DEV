@@ -3,6 +3,8 @@ HTML 5 and CSS CRASH COURSE
 HTML  Hypertext Markup Language
 - structure to a webpage
 - the foundation or skeletal support of the webpage
+- provides a means to create structured documents by denoting structural semantics
+such as text, headings, paragraphs, lists, links, quotes and other items.
 
 CSS Cascading Style Sheet
 - adds style to the webpage
@@ -13,7 +15,8 @@ CSS Cascading Style Sheet
 HTML DECLARATION
     <!DOCTYPE html>
 
-BASIC TAGS:
+BASIC ELEMENTS:
+
     <html></html> - Composes all the el;ement within the html file
     
     <head></head> - website head/tab properties
@@ -25,12 +28,32 @@ BASIC TAGS:
 
 BODY TAGS
     <h1></h1>... -  header tags
+                - There are six levels of headings ranging from <h1> </h1> up to <h6> </h6>. With <h1> tag being the largest and <h6> tag being the smallest.
 
     <p></p> - paragraph tags or text tags
+            - adds space between your paragraphs.
+
     <pre> </pre> - preformatted text
 
     <br> - break line tags or new line
+        - if you want a new line without starting a new paragraph using the
+
     <hr> - horizontal line
+        - displayed in a fixed-width font (usually Courier) and it preserves both spaces and line breaks.
+
+LIST TAGS
+    <ul></ul> - Unordered Lists
+    <ol></ol> - Ordered Lists
+    <li></li> - elements of a list
+
+TABLE TAGS
+    <table></table> creates a table
+
+    <tr></tr> - tables are divided into table rows
+    <td></td> - the data container of the table
+            - can contain all sorts of HTML elements like text, images, lists and other tables, etc.
+
+
 
 REFERENCING TAG
     <a href="link"> </a> - references a link
@@ -42,10 +65,14 @@ REFERENCING TAG
     href function
     href="mailto:example@example.com" - proceeds to default email app
 
-    
+----------------------------------------------------------------------
 
 HOMEPAGE
 - landing page of the website
 - 
-
     filename: index.html
+
+
+
+ref:
+Institute of Computer Science, UPLB. 2018. CMSC 12 Foundations of Computer Science. Hypertext Markup Language (HTML).
