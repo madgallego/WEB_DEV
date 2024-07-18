@@ -43,6 +43,3 @@ for(var j=0; j<size; j++){
 
     console.log(`Elements that are divisible by 5 only are:`);
     console.log(arr3);
-
-
-
