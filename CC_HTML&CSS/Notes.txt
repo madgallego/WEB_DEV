@@ -48,15 +48,31 @@ LIST TAGS
 
 TABLE TAGS
     <table></table> creates a table
+                - can use align attributes 
+                - 
 
     <tr></tr> - tables are divided into table rows
+
+    <th></th> - table header for table rows
+                - 
     <td></td> - the data container of the table
             - can contain all sorts of HTML elements like text, images, lists and other tables, etc.
+            NOTE: table data is displayed horizontally
 
+IMAGE FOR WEB
+    <img> - singleton tag for image source
 
+    attributes:
+        src="" -> “source” which provides the web browser the source of the image
+        
+        alt-"" -> “alternative” which provides a text-based alternative for users in case the image will not load.
+        
+        width="" & height="" ->  sizing of image
 
-REFERENCING TAG
+        
+ANCHOR TAG
     <a href="link"> </a> - references a link
+                        - connect Web pages or data items to one another
     
     attributes that can be added:
     target="_blank" - opens a link in a new tab
