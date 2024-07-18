@@ -25,3 +25,22 @@ VARIABLES
 
 Declaration:
     let <variable name> = #;
+
+
+
+--------------------------------------------------
+MATH IN JAVASCRIPT
+- arithmetic are same with languages
+
+    unique:
+    exponent -> **(num) or **=(num)
+
+MATH LIB
+    Math.(code)
+
+    random number:
+        Math.floor(Math.random()*<max number>)
+
+--------------------------------------------------
+OPERATOR PRECEDENCE IN JAVA SCRIPT
+-PEMDAS
