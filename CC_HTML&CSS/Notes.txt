@@ -94,9 +94,15 @@ AUDIO FOR WEB
 
     attributes:
     control - shows a control button for audio
+    autoplay - plays the audio file upon opening the page
+    muted - mutes the song at first opening
+    loop - loops the song
 
     inner tags:
         <source src="<local dir>">
+        att: 
+            type="audio/<audio file type>" 
+                ex. mp3==mpeg, wav==wav
 
 
 
