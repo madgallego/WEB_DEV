@@ -3,8 +3,7 @@ HTML 5 and CSS CRASH COURSE
 HTML  Hypertext Markup Language
 - structure to a webpage
 - the foundation or skeletal support of the webpage
-- provides a means to create structured documents by denoting structural semantics
-such as text, headings, paragraphs, lists, links, quotes and other items.
+- provides a means to create structured documents by denoting structural semantics such as text, headings, paragraphs, lists, links, quotes and other items.
 
 CSS Cascading Style Sheet
 - adds style to the webpage
@@ -26,6 +25,7 @@ BASIC ELEMENTS:
 
     <!----> - comment tags
 
+
 BODY TAGS
     <h1></h1>... -  header tags
                 - There are six levels of headings ranging from <h1> </h1> up to <h6> </h6>. With <h1> tag being the largest and <h6> tag being the smallest.
@@ -41,10 +41,12 @@ BODY TAGS
     <hr> - horizontal line
         - displayed in a fixed-width font (usually Courier) and it preserves both spaces and line breaks.
 
+
 LIST TAGS
     <ul></ul> - Unordered Lists
     <ol></ol> - Ordered Lists
     <li></li> - elements of a list
+
 
 TABLE TAGS
     <table></table> creates a table
