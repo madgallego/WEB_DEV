@@ -90,6 +90,14 @@ IMAGE FOR WEB
 
 
 AUDIO FOR WEB
+    <audio> </audio> - audio tag, encloses tags
+
+    attributes:
+    control - shows a control button for audio
+
+    inner tags:
+        <source src="<local dir>">
+
 
 
 
