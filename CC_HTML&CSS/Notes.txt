@@ -41,6 +41,21 @@ BODY TAGS
     <hr> - horizontal line
         - displayed in a fixed-width font (usually Courier) and it preserves both spaces and line breaks.
 
+TEXT FORMATTING
+    <b></b> - bold text
+    <i></i> - italicized text
+    <u></u> - underlined text
+    <del></del> - deleted text
+    <big></big> - big text
+    <small></small> - small text
+    <sub></sub> - subscript text
+    <sup></sup> - superscript text
+    <tt></tt> - monospaced text
+
+    <mark></mark> - highligts text
+        css att: 
+        style="background-color: <color>
+
 
 LIST TAGS
     <ul></ul> - Unordered Lists
