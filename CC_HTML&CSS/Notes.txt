@@ -61,6 +61,20 @@ TABLE TAGS
             - can contain all sorts of HTML elements like text, images, lists and other tables, etc.
             NOTE: table data is displayed horizontally
 
+
+ANCHOR TAG
+    <a href="link"> </a> - references a link
+                        - connect Web pages or data items to one another
+    
+    attributes that can be added:
+    target="_blank" - opens a link in a new tab
+    title="" - creates a preview message in the link
+
+    href function
+    href="mailto:example@example.com" - proceeds to default email app
+
+
+
 IMAGE FOR WEB
     <img> - singleton tag for image source
 
@@ -74,19 +88,11 @@ IMAGE FOR WEB
     others:
     - to make a clickable hyperlinked image, enclose it with anchor tags
 
-    
 
-        
-ANCHOR TAG
-    <a href="link"> </a> - references a link
-                        - connect Web pages or data items to one another
-    
-    attributes that can be added:
-    target="_blank" - opens a link in a new tab
-    title="" - creates a preview message in the link
+AUDIO FOR WEB
 
-    href function
-    href="mailto:example@example.com" - proceeds to default email app
+
+
 
 ----------------------------------------------------------------------
 
