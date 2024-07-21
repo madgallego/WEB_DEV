@@ -126,10 +126,10 @@ VIDEO FOR WEB
 
 HOMEPAGE
 - landing page of the website
-- 
     filename: index.html
 
-
+WEBPAGE FAVICONS
+    <link rel="icon" type="image/<image type>" href="<local dir>">
 
 ref:
 Institute of Computer Science, UPLB. 2018. CMSC 12 Foundations of Computer Science. Hypertext Markup Language (HTML).
