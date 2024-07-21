@@ -70,6 +70,11 @@ IMAGE FOR WEB
         alt-"" -> “alternative” which provides a text-based alternative for users in case the image will not load.
         
         width="" & height="" ->  sizing of image
+    
+    others:
+    - to make a clickable hyperlinked image, enclose it with anchor tags
+
+    
 
         
 ANCHOR TAG
