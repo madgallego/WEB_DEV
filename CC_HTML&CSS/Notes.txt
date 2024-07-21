@@ -85,15 +85,14 @@ IMAGE FOR WEB
         
         width="" & height="" ->  sizing of image
     
-    others:
-    - to make a clickable hyperlinked image, enclose it with anchor tags
+    NOTE: to make a clickable hyperlinked media, enclose it with anchor tags
 
 
 AUDIO FOR WEB
     <audio> </audio> - audio tag, encloses tags
 
     attributes:
-    control - shows a control button for audio
+    controls - shows a control button for audio
     autoplay - plays the audio file upon opening the page
     muted - mutes the song at first opening
     loop - loops the song
@@ -105,8 +104,23 @@ AUDIO FOR WEB
                 ex. mp3==mpeg, wav==wav
 
 
+VIDEO FOR WEB
+    <video></video> - tags for video
+ - file format supported: .mp4, .webm, .ogg
+    
+    attributes:
+        src=""
+        controls - shows a control button for video
+        autoplay - plays the video file upon opening the page
+        muted - mutes the video at first opening
 
+    or
+    inner tags: (good for backup)
+        <source src="<local dir>">
+        att: 
+            type="video/<video file type>" 
 
+    NOTE: to make a clickable hyperlinked media, enclose it with anchor tags
 
 ----------------------------------------------------------------------
 
