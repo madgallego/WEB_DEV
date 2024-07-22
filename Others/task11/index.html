@@ -61,13 +61,21 @@
 
     <script>
     //2D Array
-    
-
-    var randomResto = Math.floor(Math.random()*3);
-    var randomFood = Math.floor(Math.random()*3);
+    var foodSelection=[
+        ["Burger King", "Whopper Jr.", "Flamed Grill" , "X-tra Long Chicken"],
+        ["Jollibee", "Chickenjoy", "Jolly Spaghetti", "Yumburger"],
+        ["Chowking", "Sweet and Sour Pork", "Pork Chaofan", "Chicken Lauriat"]
+    ]
 
     function generator(){ 
-    document.getElementById("result").innerHTML="  You got X-tra Long Chicken from Burger King  ";  
+        var randomResto = Math.floor(Math.random()*3);
+    var randomFood = Math.floor(Math.random()*3)+1;
+
+        console.log(foodSelection[randomResto][0],foodSelection[randomResto][randomFood] )
+
+        var result = `You got ${foodSelection[randomResto][randomFood]} from ${foodSelection[randomResto][0]}!`;
+
+        document.getElementById("result").innerHTML=result;  
     } 
     </script> 
 
