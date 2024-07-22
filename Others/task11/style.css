@@ -18,4 +18,18 @@ button{
     font-size: 16px;
 }
 
+p {
+    font-family:  Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+    font-size: 10;
+    line-height: 0px;
+}
+
+#ouputbox {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 5px 16px;
+    background-color:white;
+    border-radius: 8px;
 }
