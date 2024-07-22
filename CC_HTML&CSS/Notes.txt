@@ -137,7 +137,21 @@ VIDEO FOR WEB
 
     NOTE: to make a clickable hyperlinked media, enclose it with anchor tags
 
-----------------------------------------------------------------------
+SPAN 
+- a spanned area for css styling
+- inline container for styling
+    <span></span> - span tag
+
+
+DIV
+- divided area for css styling
+- block container type of styling
+    <div></div> - div tag
+
+
+
+
+----------------------------------------------------------------------------------------------------------
 
 HOMEPAGE
 - landing page of the website
